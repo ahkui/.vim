@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/home/ldap'
+let g:netrw_dirhist_2='/home/home/ldap/my-env.yaml'
+let g:netrw_dirhist_3='/home/home/harbor/common/config/registryctl'
+let g:netrw_dirhist_4='/home/home'
+let g:netrw_dirhist_5='/home/home/OperatingSystem'
+let g:netrw_dirhist_6='/home/home/OperatingSystem/EX2'
+let g:netrw_dirhist_7='/home/home/.vim/bundle'
+let g:netrw_dirhist_8='/home/home/laradock/laradock'
