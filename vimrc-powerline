@@ -11,9 +11,9 @@ colorscheme neon
 set laststatus=2
 set t_Co=512
 
-python3 from powerline.vim import setup as powerline_setup
-python3 powerline_setup()
-python3 del powerline_setup
+" python3 from powerline.vim import setup as powerline_setup
+" python3 powerline_setup()
+" python3 del powerline_setup
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -28,6 +28,8 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'scrooloose/nerdtree'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
