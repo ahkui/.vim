@@ -1,6 +1,6 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
-	url = https://github.com/ycm-core/YouCompleteMe.git
+	url = git@github.com:ycm-core/YouCompleteMe.git
 [submodule "bundle/Vundle.vim"]
 	path = bundle/Vundle.vim
 	url = git@github.com:VundleVim/Vundle.vim.git
