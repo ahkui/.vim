@@ -4,6 +4,3 @@
 [submodule "bundle/Vundle.vim"]
 	path = bundle/Vundle.vim
 	url = git@github.com:VundleVim/Vundle.vim.git
-[submodule "bundle/nerdtree"]
-	path = bundle/nerdtree
-	url = git@github.com:preservim/nerdtree.git
